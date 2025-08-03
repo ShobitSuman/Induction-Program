@@ -48,3 +48,25 @@ The event was graced by special guests who brought valuable perspectives:
 
 ### Conclusion
 The first day of the Induction Program set a positive and inspiring tone for the days ahead. Through insightful talks, personal experiences, and guidance from faculty and alumni, students gained clarity, motivation, and a sense of belonging as they began their journey at GNDEC.
+
+## Day 2: Proficiency Test & Expert Lecture
+### Date & Time
+- **Date:** 1 August 2025  
+- **Time:** 9:30 AM – 4:30 PM 
+- **Venue:** Department of Applied Science & Auditorium, GNDEC Ludhiana
+
+### English Test
+The day began with an **English Proficiency Test** to assess the candidates’ command of the language.
+
+### Mathematics Test
+Following the English test, a Mathematics test was conducted to evaluate the candidates’ quantitative and analytical skills.
+
+### Expert Lecture
+- **Dr. Arashdeep Singh**, Extension Specialist (Food Technology)   
+  Delivered an Expert Lecture on the topic **“Food: A Pivotal Role in Student's Overall Wellness”**. The session emphasized the importance of nutrition, mindful   eating, and its impact on overall well-being and academic performance.
+
+### Induction Activities
+The Causmic Club conducted an engaging orientation, introducing students to tech communities and collaborative learning. This also marked the launch of induction activities focused on GitHub, aimed at building students’ foundational skills in version control and open-source contribution.
+
+### Conclusion
+Day 2 was a mix of learning, self-reflection, and new beginnings. Students got a chance to understand where they stand through the proficiency tests, learned how everyday habits like food affect their lives, and took their first steps into the world of coding and collaboration with GitHub. It was a day of growth in more ways than one.
