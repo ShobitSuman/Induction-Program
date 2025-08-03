@@ -70,3 +70,23 @@ The Causmic Club conducted an engaging orientation, introducing students to tech
 
 ### Conclusion
 Day 2 was a mix of learning, self-reflection, and new beginnings. Students got a chance to understand where they stand through the proficiency tests, learned how everyday habits like food affect their lives, and took their first steps into the world of coding and collaboration with GitHub. It was a day of growth in more ways than one.
+
+## Day 3: Expert Lectures
+### Date & Time
+- **Date:** 2 August 2025  
+- **Time:** 9:30 AM – 1:30 PM 
+- **Venue:** Auditorium, GNDEC Ludhiana
+
+### Expert Lecture
+- **Dr. Jaswinder Singh**, Incharge-IAPT, Siksharatan Awardee   
+  Amazed students with live experiments and a fun, hands-on approach to learning. His engaging style made complex concepts feel simple and enjoyable.
+  
+- **Dr. Priyadarshini**, Expert in Universal Human Values  
+  Spoke about how qualities like empathy, honesty, and responsibility are just as important as technical skills in a successful career. Her session encouraged     students to think beyond marks and jobs—to focus on becoming good human beings.
+
+### Motivational Address by the Chief Guest
+- **Sardar Gurcharan Singh Grewal**, member of SGPC and Nankana Sahib Education Trust  
+  His heartfelt words reminded students to stay humble and value their roots while aiming high in life.
+
+### Conclusion
+Day 3 reminded students that success isn’t just about knowledge, it’s also about values. It was a meaningful day that inspired them to grow both as learners and as individuals.
