@@ -82,7 +82,7 @@ Day 2 was a mix of learning, self-reflection, and new beginnings. Students got a
   Amazed students with live experiments and a fun, hands-on approach to learning. His engaging style made complex concepts feel simple and enjoyable.
   
 - **Dr. Priyadarshini**, Expert in Universal Human Values  
-  Spoke about how qualities like empathy, honesty, and responsibility are just as important as technical skills in a successful career. Her session encouraged     students to think beyond marks and jobs—to focus on becoming good human beings.
+  Spoke about how qualities like empathy, honesty, and responsibility are just as important as technical skills in a successful career. Her session encouraged students to think     beyond marks and jobs—to focus on becoming good human beings.
 
 ### Motivational Address by the Chief Guest
 - **Sardar Gurcharan Singh Grewal**, member of SGPC and Nankana Sahib Education Trust  
@@ -90,3 +90,25 @@ Day 2 was a mix of learning, self-reflection, and new beginnings. Students got a
 
 ### Conclusion
 Day 3 reminded students that success isn’t just about knowledge, it’s also about values. It was a meaningful day that inspired them to grow both as learners and as individuals.
+
+## Day 4: Class & Lecture Lineup
+### Date & Time
+- **Date:** 4 August 2025
+- **Time:** 8:30 AM - 3:30 PM
+- **Venue:** Auditorium & Department of Applied Science, GNDEC Ludhiana
+
+### Induction Activities
+The Causmic Club held a session introducing students to their social media handles and gave a brief tutorial on using GitHub. Moreover, they assigned a task to submit the Induction Report via github.
+
+### Expert Lecture
+- **Dr. Priyadarshini**, Expert in Universal Human Values  
+  Delivered a session highlighting the key differences between the body and the self.
+  
+- **Mr. Gautam**, Final Year Mechanical Student
+  Conducted an interactive session on motorsport, sharing insights and engaging students in discussion.
+
+### P2P Learning
+As part of the P2P learning initiative, senior students introduced juniors to fundamental concepts such as algorithms, pseudocode, flowcharts, and the basic boilerplate structure of C++.
+
+### Conclusion
+Day 4 ended on a positive note with lots of learning and active participation from the students, making it both informative and engaging.
