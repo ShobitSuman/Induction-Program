@@ -21,7 +21,7 @@ Two distinguished alumni from the 2021–2025 batch shared their experiences and
   Spoke about how GNDEC helped shape his career and encouraged students to stay focused and driven.
 
 ### Academic Guidance
-- **Mrs. Harpreet Kaur Garewal**, HOD of Applied Sciences  
+- **Mrs. Harpreet Kaur Grewal**, HOD of Applied Sciences  
   Welcomed students with an encouraging speech emphasizing discipline, passion, and openness to opportunities.
   
 - **Dr. Akshay Girdhar**, Dean of Academics  
@@ -104,7 +104,7 @@ The Causmic Club held a session introducing students to their social media handl
 - **Dr. Priyadarshini**, Expert in Universal Human Values  
   Delivered a session highlighting the key differences between the body and the self.
   
-- **Mr. Gautam**, Final Year Mechanical Student
+- **Mr. Gautam**, Final Year Mechanical Student   
   Conducted an interactive session on motorsport, sharing insights and engaging students in discussion.
 
 ### P2P Learning
