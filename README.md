@@ -112,3 +112,14 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
 
 ### Conclusion
 Day 4 ended on a positive note with lots of learning and active participation from the students, making it both informative and engaging.
+
+## Day 5: Expert Lecture
+### Date & Time
+- **Date:** 5 August 2025  
+- **Time:** 2:30 PM – 4:30 PM 
+- **Venue:** Auditorium, GNDEC Ludhiana
+
+### Expert Lecture
+- **Shaffy Makkar,** MSc Gold Medalist   
+  Delivered an impactful session on the topic "Milets: Super Food" aimied at the importance of millets, highlighting their nutritional benefits, environmental
+  sustainability, and role in promoting healthy diets.
