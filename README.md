@@ -46,9 +46,6 @@ The event was graced by special guests who brought valuable perspectives:
 - **Shri Ashok Singla**, Financial Advisor  
   Offered practical advice and encouraged students to make informed and confident decisions for their future.
 
-### Conclusion
-The first day of the Induction Program set a positive and inspiring tone for the days ahead. Through insightful talks, personal experiences, and guidance from faculty and alumni, students gained clarity, motivation, and a sense of belonging as they began their journey at GNDEC.
-
 ## Day 2: Proficiency Test & Expert Lecture
 ### Date & Time
 - **Date:** 1 August 2025  
@@ -68,9 +65,6 @@ Following the English test, a Mathematics test was conducted to evaluate the can
 ### Induction Activities
 The Causmic Club conducted an engaging orientation, introducing students to tech communities and collaborative learning. This also marked the launch of induction activities focused on GitHub, aimed at building students’ foundational skills in version control and open-source contribution.
 
-### Conclusion
-Day 2 was a mix of learning, self-reflection, and new beginnings. Students got a chance to understand where they stand through the proficiency tests, learned how everyday habits like food affect their lives, and took their first steps into the world of coding and collaboration with GitHub. It was a day of growth in more ways than one.
-
 ## Day 3: Expert Lectures
 ### Date & Time
 - **Date:** 2 August 2025  
@@ -87,9 +81,6 @@ Day 2 was a mix of learning, self-reflection, and new beginnings. Students got a
 ### Motivational Address by the Chief Guest
 - **Sardar Gurcharan Singh Grewal**, member of SGPC and Nankana Sahib Education Trust  
   His heartfelt words reminded students to stay humble and value their roots while aiming high in life.
-
-### Conclusion
-Day 3 reminded students that success isn’t just about knowledge, it’s also about values. It was a meaningful day that inspired them to grow both as learners and as individuals.
 
 ## Day 4: Class & Lecture Lineup
 ### Date & Time
@@ -109,9 +100,6 @@ The Causmic Club held a session introducing students to their social media handl
 
 ### P2P Learning
 As part of the P2P learning initiative, senior students introduced juniors to fundamental concepts such as algorithms, pseudocode, flowcharts, and the basic boilerplate structure of C++.
-
-### Conclusion
-Day 4 ended on a positive note with lots of learning and active participation from the students, making it both informative and engaging.
 
 ## Day 5: Expert Lecture
 ### Date & Time
