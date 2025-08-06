@@ -65,7 +65,7 @@ Following the English test, a Mathematics test was conducted to evaluate the can
 ### Induction Activities
 The Causmic Club conducted an engaging orientation, introducing students to tech communities and collaborative learning. This also marked the launch of induction activities focused on GitHub, aimed at building students’ foundational skills in version control and open-source contribution.
 
-## Day 3: Expert Lectures
+## Day 3: Expert Lecture
 ### Date & Time
 - **Date:** 2 August 2025  
 - **Time:** 9:30 AM – 1:30 PM 
@@ -111,3 +111,17 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
 - **Shaffy Makkar,** MSc Gold Medalist   
   Delivered an impactful session on the topic "Milets: Super Food" aimied at the importance of millets, highlighting their nutritional benefits, environmental
   sustainability, and role in promoting healthy diets.
+
+## Day 6: Expert Lecture
+### Date & Time
+- **Date:** 6 August 2025  
+- **Time:** 9:30 AM – 12:30 PM 
+- **Venue:** Auditorium, GNDEC Ludhiana
+
+### Expert Lecture
+- **Dr. Parminder Singh,** Dean of Student Welfare  
+  Addressed students about college clubs, activities, and anti‑ragging awareness.
+- **Mr. Manpreet Singh**, Fitness Coach  
+  Delivered a lecture on the importance of health and fitness for engineers, highlighting practical tips to maintain an active lifestyle despite a busy           schedule.
+- **Brigadier P.S. Cheema,** SM, VSM  
+  Delivered an inspiring session that motivated students to develop discipline, leadership, and a strong sense of purpose in both academic and personal life.
