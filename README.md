@@ -75,7 +75,7 @@ Following the English test, a mathematics test was conducted to evaluate the stu
 - **Sardar Gurcharan Singh Grewal,** member of SGPC and Nankana Sahib Education Trust  
   His heartfelt words reminded students to stay humble and value their roots while aiming high in life.
 
-## Day 4: Class & Lecture Lineup
+## Day 4: Class Introductions & Induction Activities
 ### Date & Time
 - **Date:** 4 August 2025
 - **Time:** 8:30 AM - 3:30 PM
@@ -91,7 +91,7 @@ The Causmic Club held a session introducing students to their social media handl
 ### P2P Learning
 As part of the P2P learning initiative, senior students introduced juniors to fundamental concepts such as algorithms, pseudocode, flowcharts, and the basic boilerplate structure of C++.
 
-## Day 5: Expert Lecture
+## Day 5: Nutrition & Health Awareness
 ### Date & Time
 - **Date:** 5 August 2025  
 - **Time:** 2:30 PM – 4:30 PM 
@@ -102,7 +102,7 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
   Delivered an impactful session on the topic **"Milets: Super Food"** aimed at the importance of millets, highlighting their nutritional benefits, environmental
   sustainability, and role in promoting healthy diets.
 
-## Day 6: Expert Lecture
+## Day 6: Health & Personal Development
 ### Date & Time
 - **Date:** 6 August 2025  
 - **Time:** 9:30 AM – 12:30 PM 
@@ -118,7 +118,7 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
 - **Brigadier P.S. Cheema,** SM, VSM  
   Delivered an inspiring session that motivated students to develop discipline, leadership, and a strong sense of purpose in both academic and personal life.
 
-## Day 7: Clubs & Societies
+## Day 7: Campus Societies Overview
 ### Date & Time
 - **Date:** 7 August 2025  
 - **Time:** 12:30 PM – 3:30 PM 
