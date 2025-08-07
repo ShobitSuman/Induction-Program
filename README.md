@@ -117,3 +117,16 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
   
 - **Brigadier P.S. Cheema,** SM, VSM  
   Delivered an inspiring session that motivated students to develop discipline, leadership, and a strong sense of purpose in both academic and personal life.
+
+## Day 7: Clubs & Societies
+### Date & Time
+- **Date:** 7 August 2025  
+- **Time:** 12:30 PM – 3:30 PM 
+- **Venue:** Auditorium, GNDEC Ludhiana
+
+### Campus Societies
+- **Dr. Lakhvir Singh Khanna,** Incharge CML   
+  Delivered a presentation on Center of Multifacted Learning and SWAYAM NPTEL.
+
+- **Dr. Jasvir Singh Grewal,** Incharge NSS   
+  Gave an overview of the National Service Scheme (NSS) activities, highlighting the importance of community service and student engagement.
