@@ -137,6 +137,6 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
 - **Time:** 10:00 AM – 12:00 PM 
 - **Venue:** Workshop, GNDEC Ludhiana
 
-### Electrical Workshop
+### Electric Workshop
 - **Mr. Deshinder Singh,** Instructor  
-  Gave a brief introduction alongside the rules and regulations of the electrical workshop.
+  Gave a brief introduction alongside the rules and regulations of the electric workshop.
