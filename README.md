@@ -130,13 +130,3 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
 
 - **Dr. Jasvir Singh Grewal,** Incharge NSS   
   Gave an overview of the National Service Scheme (NSS) activities, highlighting the importance of community service and student engagement.
-
-## Day 8: Workshop
-### Date & Time
-- **Date:** 8 August 2025  
-- **Time:** 10:00 AM – 12:00 PM 
-- **Venue:** Workshop, GNDEC Ludhiana
-
-### Electric Workshop
-- **Mr. Deshinder Singh,** Instructor  
-  Gave a brief introduction alongside the rules and regulations of the electric workshop.
