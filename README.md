@@ -140,3 +140,21 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
 ### Electric Workshop
 - **Mr. Deshinder Singh,** Instructor  
   Gave a brief introduction alongside the rules and regulations of the electric workshop.
+
+## Day 9: Lecture & Workshop
+### Date & Time
+- **Date:** 11 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science & Workshop, GNDEC Ludhiana
+
+### Physics Lecture
+- **Dr. Randhir Singh**, Associate Professor, Physics   
+  Explained the basic principles and different applications of Lasers.
+
+### Programming For Problem Solving
+- **Mrs. Maninder Kaur**, Associate Professor, Computer Science   
+  Covered the essentials of computer, input, output, and memory to give students a solid foundation.
+
+### Electric Workshop
+- **Mr. Deshinder Singh,** Instructor  
+  Gave a brief lecture on electric circuit involving a bulb.
