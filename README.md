@@ -10,14 +10,13 @@
 - **Venue:** Gurudwara Sahib & Auditorium, GNDEC Ludhiana
 
 ### Spiritual Opening
-The day began at **Gurudwara Sahib**, where the newly admitted students gathered in a peaceful and spiritual setting to seek blessings for their journey ahead.
+- The day began at **Gurudwara Sahib**, where the newly admitted students gathered in a peaceful and spiritual setting to seek blessings for their journey ahead.
 
 ### Alumni Talks
-Two distinguished alumni from the 2021–2025 batch shared their experiences and insights with the new students:
-- **Mr. Sangam Arora,** CSE Topper, working at **Argusoft**   
+- **Mr. Sangam Arora,** CSE Topper 2025, working at **Argusoft**   
   Shared his academic journey and gave practical tips on balancing academics and skill-building.
   
-- **Mr. Arshpreet Singh,** IT Topper, working at **Airtel, Gurugram**  
+- **Mr. Arshpreet Singh,** IT Topper 2025, working at **Airtel, Gurugram**  
   Spoke about how GNDEC helped shape his career and encouraged students to stay focused and driven.
 
 ### Academic Guidance
@@ -32,8 +31,6 @@ Two distinguished alumni from the 2021–2025 batch shared their experiences and
   Shared his vision for the students and encouraged them to pursue learning, innovation, and holistic growth during their time at the institution.
 
 ### Guests of Honour
-The event was graced by special guests who brought valuable perspectives:
-
 - **Shri Ravindra Garg,** Chief Engineer, Municipal Corporation, Ludhiana  
   Spoke about civic responsibility and the importance of applying technical knowledge for the public good.
   
@@ -50,14 +47,14 @@ The event was graced by special guests who brought valuable perspectives:
 - **Venue:** Department of Applied Science & Auditorium, GNDEC Ludhiana
 
 ### English Test
-The day began with an english proficiency test to assess the student’s command on the language.
+- The day began with an english proficiency test to assess the student’s command on the language.
 
 ### Mathematics Test
-Following the English test, a mathematics test was conducted to evaluate the student’s quantitative and analytical skills.
+- Following the English test, a mathematics test was conducted to evaluate the student’s quantitative and analytical skills.
 
 ### Expert Lecture
 - **Dr. Arashdeep Singh,** Extension Specialist (Food Technology)   
-  Delivered an Expert Lecture on the topic **“Food: A Pivotal Role in Student's Overall Wellness”**. The session emphasized the importance of nutrition, mindful eating, and its     impact on overall well-being and academic performance.
+  Delivered an Expert Lecture on the topic **“Food: A Pivotal Role in Student's Overall Wellness”**.
 
 ## Day 3: Expert Lecture
 ### Date & Time
@@ -70,7 +67,7 @@ Following the English test, a mathematics test was conducted to evaluate the stu
   Amazed students with live experiments and a fun, hands-on approach to learning. His engaging style made complex concepts feel simple and enjoyable.
   
 - **Dr. Priyadarshini,** Expert in Universal Human Values  
-  Spoke about how qualities like empathy, honesty, and responsibility are just as important as technical skills in a successful career. Her session encouraged students to           think beyond marks and jobs to focus on becoming good human beings.
+  Spoke about how qualities like empathy, honesty, and responsibility are just as important as technical skills in a successful career.
 
 - **Sardar Gurcharan Singh Grewal,** member of SGPC and Nankana Sahib Education Trust  
   His heartfelt words reminded students to stay humble and value their roots while aiming high in life.
@@ -82,14 +79,14 @@ Following the English test, a mathematics test was conducted to evaluate the stu
 - **Venue:** Auditorium & Department of Applied Science, GNDEC Ludhiana
 
 ### Induction Activities
-The Causmic Club held a session introducing students to their social media handles and gave a brief tutorial on using GitHub. Moreover, they assigned a task to submit the induction report via github.
+- The Causmic Club held a session introducing students to their social media handles and gave a brief tutorial on using GitHub. Moreover, they assigned a task to submit the         induction report via github.
 
 ### Expert Lecture
 - **Dr. Priyadarshini,** Expert in Universal Human Values  
   Delivered a session highlighting the key differences between the body and the self.
 
 ### P2P Learning
-As part of the P2P learning initiative, senior students introduced juniors to fundamental concepts such as algorithms, pseudocode, flowcharts, and the basic boilerplate structure of C++.
+- As part of the P2P learning initiative, senior students introduced juniors to fundamental concepts such as algorithms, pseudocode, flowcharts, and the basic boilerplate           structure of C++.
 
 ## Day 5: Nutrition & Health Awareness
 ### Date & Time
