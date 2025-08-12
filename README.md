@@ -158,3 +158,21 @@ As part of the P2P learning initiative, senior students introduced juniors to fu
 ### Electric Workshop
 - **Mr. Deshinder Singh,** Instructor  
   Gave a brief lecture on electric circuit involving a bulb.
+
+## Day 10: Core Subjects and Practical Labs
+### Date & Time
+- **Date:** 12 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Physics Lab
+- **Dr. Jaspreet Singh**, Assistant Professor, Physics   
+  Gave introduction of physics lab and assigned experiments to students. 
+
+### Engineering Graphics & Drawing
+- **Mrs. Jagjit Kaur**, Assistant Professor  
+  Covered the essentials of engineering drawing and graphics and outcomes of the course.
+  
+### Economics
+- **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
+  Gave a brief lecture on the basic terms of economics.
