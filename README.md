@@ -144,7 +144,7 @@
 - **Time:** 8:30 AM – 3:30 PM 
 - **Venue:** Department of Applied Science & Workshop, GNDEC Ludhiana
 
-### Physics Lecture
+### Physics
 - **Dr. Randhir Singh**, Associate Professor, Physics   
   Explained the basic principles and different applications of Lasers.
 
