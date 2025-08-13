@@ -173,3 +173,17 @@
 ### Economics
 - **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
   Gave a brief lecture on the basic terms of economics.
+
+## Day 11: Manufacturing Workshop & Core Subjects
+### Date & Time
+- **Date:** 13 August 2025  
+- **Time:** 8:30 AM – 2:30 PM 
+- **Venue:** Workshop & Department of Applied Science, GNDEC Ludhiana
+
+### Electric Workshop
+- **Mr. Deshinder Singh,** Instructor  
+  Students wired up an electrical circuit consisting of a bulb and switch. 
+
+### Physics
+- **Dr. Randhir Singh**, Associate Professor, Physics   
+  Explained Einstein's Theory of Radiation.
