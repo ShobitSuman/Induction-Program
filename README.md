@@ -187,3 +187,21 @@
 ### Physics
 - **Dr. Randhir Singh**, Associate Professor, Physics   
   Explained Einstein's Theory of Radiation.
+
+## Day 12: Core Subjects
+### Date & Time
+- **Date:** 14 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Engineering Graphics & Drawing
+- **Mrs. Jagjit Kaur**, Assistant Professor  
+  Gave a tutorial on how to draw alphabets on graph sheet.
+
+### Mathematics
+- **Mr. Neeraj Kumar**, Assistant Professor  
+  Taught limits and continuity of indeterminate forms.
+
+### Economics
+- **Ms. Sanjam Kaur Sidhu**, Assistant Professor, Economics   
+  Discussed different definitions and types of economics.
