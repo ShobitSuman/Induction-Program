@@ -145,11 +145,11 @@
 - **Venue:** Department of Applied Science & Workshop, GNDEC Ludhiana
 
 ### Physics
-- **Dr. Randhir Singh**, Associate Professor, Physics   
+- **Dr. Randhir Singh**, Associate Professor   
   Explained the basic principles and different applications of Lasers.
 
 ### Programming For Problem Solving
-- **Mrs. Maninder Kaur**, Associate Professor, Computer Science   
+- **Mrs. Maninder Kaur**, Associate Professor   
   Covered the essentials of computer, input, output, and memory to give students a solid foundation.
 
 ### Electric Workshop
@@ -163,7 +163,7 @@
 - **Venue:** Department of Applied Science, GNDEC Ludhiana
 
 ### Physics Lab
-- **Dr. Jaspreet Singh**, Assistant Professor, Physics   
+- **Dr. Jaspreet Singh**, Assistant Professor   
   Gave introduction of physics lab and assigned experiments to students. 
 
 ### Engineering Graphics & Drawing
@@ -185,7 +185,7 @@
   Students wired up an electrical circuit consisting of a bulb and switch. 
 
 ### Physics
-- **Dr. Randhir Singh**, Associate Professor, Physics   
+- **Dr. Randhir Singh**, Associate Professor   
   Explained Einstein's Theory of Radiation.
 
 ## Day 12: Core Subjects
@@ -203,5 +203,5 @@
   Taught limits and continuity of indeterminate forms.
 
 ### Economics
-- **Ms. Sanjam Kaur Sidhu**, Assistant Professor, Economics   
+- **Ms. Sanjam Kaur Sidhu**, Assistant Professor   
   Discussed different definitions and types of economics.
