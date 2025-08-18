@@ -205,3 +205,21 @@
 ### Economics
 - **Ms. Sanjam Kaur Sidhu**, Assistant Professor   
   Discussed different definitions and types of economics.
+
+## Day 13: Core Subjects & Workshop
+### Date & Time
+- **Date:** 18 August 2025  
+- **Time:** 9:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science & Workshop, GNDEC Ludhiana
+
+### Physics
+- **Dr. Randhir Singh**, Associate Professor   
+  Explained Einstein's Theory of Radiation.
+
+### Programming For Problem Solving
+- **Mrs. Maninder Kaur**, Associate Professor   
+  Taught different memories used in computers and input / output devices.
+
+### Electric Workshop
+- **Mr. Deshinder Singh,** Instructor  
+  Students wired up an electric circuit consisting of switch, socket and bulb.
