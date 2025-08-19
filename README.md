@@ -223,3 +223,25 @@
 ### Electric Workshop
 - **Mr. Deshinder Singh,** Instructor  
   Students wired up an electric circuit consisting of switch, socket and bulb.
+
+## Day 14: Core Subjects
+### Date & Time
+- **Date:** 19 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Physics Lab
+- **Dr. Jaspreet Singh**, Assistant Professor   
+  Performed an experiment of finding dielectric constant of a given sample.
+
+### Engineering Graphics & Drawing
+- **Mrs. Jagjit Kaur**, Assistant Professor  
+  Taught principles of dimensioning and conventions.
+
+### Economics
+- **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
+  Took a test of positive and normative economics.
+
+### Physics
+- **Dr. Randhir Singh**, Associate Professor   
+  Presented some questions on lasers.
