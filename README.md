@@ -182,7 +182,7 @@
 
 ### Electric Workshop
 - **Mr. Deshinder Singh,** Instructor  
-  Students wired up an electrical circuit consisting of a bulb and switch. 
+  Wired up an electrical circuit consisting of a bulb and switch. 
 
 ### Physics
 - **Dr. Randhir Singh**, Associate Professor   
@@ -222,7 +222,7 @@
 
 ### Electric Workshop
 - **Mr. Deshinder Singh,** Instructor  
-  Students wired up an electric circuit consisting of switch, socket and bulb.
+  Wired up an electric circuit consisting of switch, socket and bulb.
 
 ## Day 14: Core Subjects
 ### Date & Time
@@ -248,7 +248,7 @@
 
 ## Day 15: Core Subjects & Workshop
 ### Date & Time
-- **Date:** 19 August 2025  
+- **Date:** 20 August 2025  
 - **Time:** 8:30 AM – 3:30 PM 
 - **Venue:** Department of Applied Science & Workhop, GNDEC Ludhiana
 
