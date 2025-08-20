@@ -245,3 +245,21 @@
 ### Physics
 - **Dr. Randhir Singh**, Associate Professor   
   Presented some questions on lasers.
+
+## Day 15: Core Subjects & Workshop
+### Date & Time
+- **Date:** 19 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science & Workhop, GNDEC Ludhiana
+
+### Electric Workshop
+- **Mr. Deshinder Singh,** Instructor  
+  Taught different types of wiring joints.
+
+### Mathematics   
+- **Dr. Sukhminder Singh**, Assistant Professor   
+  Taught limits and continuity of indeterminate forms.
+
+### Programming For Problem Solving   
+- **Mrs. Maninder Kaur**, Associate Professor   
+  Gave a lecture on operating systems.
