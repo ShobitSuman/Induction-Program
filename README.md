@@ -263,3 +263,24 @@
 ### Programming For Problem Solving   
 - **Mrs. Maninder Kaur**, Associate Professor   
   Gave a lecture on operating systems.
+
+## Day 16: Core Subjects & Interview
+### Date & Time
+- **Date:** 21 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Engineering Graphics & Drawing
+- **Mrs. Jagjit Kaur**, Assistant Professor  
+  Taught principles of scaling.
+
+### Mathematics   
+- **Dr. Sukhminder Singh**, Assistant Professor   
+  Taught derivatives of multivariable functions.
+
+### Economics
+- **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
+  Gave lecture on economy and it's types.
+
+### NSS Interview
+- Appeared for the NSS interview and it was promising.
