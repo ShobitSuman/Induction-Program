@@ -280,15 +280,15 @@
 
 ### Economics
 - **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
-  Gave lecture on economy and it's types.
+  Gave a lecture on economy and it's types.
 
 ### NSS Interview
 - Appeared for the NSS interview and it was promising.
 
-## Day 16: Core Subjects
+## Day 17: Core Subjects
 ### Date & Time
-- **Date:** 21 August 2025  
-- **Time:** 8:30 AM – 3:30 PM 
+- **Date:** 22 August 2025  
+- **Time:** 9:30 AM – 3:30 PM 
 - **Venue:** Department of Applied Science, GNDEC Ludhiana
 
 ### Mathematics   
