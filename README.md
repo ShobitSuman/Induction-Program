@@ -284,3 +284,21 @@
 
 ### NSS Interview
 - Appeared for the NSS interview and it was promising.
+
+## Day 16: Core Subjects
+### Date & Time
+- **Date:** 21 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Mathematics   
+- **Dr. Sukhminder Singh**, Assistant Professor   
+  Taught derivatives of variables treated as a constant.
+
+### Economics
+- **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
+  Gave a lecture on relationship of economics with engineering.
+
+### Physics
+- **Dr. Randhir Singh**, Associate Professor   
+  Taught 3 and 4 level-lasers.
