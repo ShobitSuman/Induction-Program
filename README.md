@@ -302,3 +302,21 @@
 ### Physics
 - **Dr. Randhir Singh**, Associate Professor   
   Taught 3 and 4 level-lasers.
+
+## Day 18: Core Subjects
+### Date & Time
+- **Date:** 26 August 2025  
+- **Time:** 9:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Physics Lab
+- **Dr. Jaspreet Singh**, Assistant Professor   
+  Performed an experiment of finding dielectric constant of a given sample.
+
+### Engineering Graphics & Drawing
+- **Mrs. Jagjit Kaur**, Assistant Professor  
+  Gave a lecture on diagonal scales.
+
+### Economics
+- **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
+  Took a test of economic and non-economic activities.
