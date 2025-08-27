@@ -320,3 +320,21 @@
 ### Economics
 - **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
   Took a test of economic and non-economic activities.
+
+## Day 19: Core Subjects
+### Date & Time
+- **Date:** 27 August 2025  
+- **Time:** 8:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Physics
+- **Dr. Randhir Singh**, Associate Professor   
+  Taught helium-ruby laser.
+
+### Mathematics   
+- **Dr. Sukhminder Singh**, Assistant Professor   
+  Taught derivatives of composite and implicit functions.
+
+### Programming For Problem Solving   
+- **Mrs. Maninder Kaur**, Associate Professor   
+  Gave a lecture on basics of programming.
