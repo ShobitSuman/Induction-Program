@@ -329,7 +329,7 @@
 
 ### Physics
 - **Dr. Randhir Singh**, Associate Professor   
-  Taught helium-ruby laser.
+  Taught ruby laser.
 
 ### Mathematics   
 - **Dr. Sukhminder Singh**, Assistant Professor   
