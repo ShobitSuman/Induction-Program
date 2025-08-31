@@ -356,3 +356,17 @@
 ### Economics
 - **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
   Gave a lecture on demands and it's types.
+
+## Day 21: Core Subjects
+### Date & Time
+- **Date:** 29 August 2025  
+- **Time:** 9:30 AM – 3:30 PM 
+- **Venue:** Department of Applied Science, GNDEC Ludhiana
+
+### Physics
+- **Dr. Randhir Singh**, Associate Professor   
+  Taught helium-neon laser.
+
+### Economics
+- **Ms. Sanjam Kaur Sidhu,** Assistant Professor  
+  Gave a lecture on determinants of demands.
