@@ -64,7 +64,7 @@
 
 ### Expert Lecture
 - **Dr. Jaswinder Singh,** Incharge-IAPT, Siksharatan Awardee   
-  Amazed students with live experiments and a fun, hands-on approach to learning. His engaging style made complex concepts feel simple and enjoyable.
+  Amazed students with live experiments and a fun, hands-on approach to learning.
   
 - **Dr. Priyadarshini,** Expert in Universal Human Values  
   Spoke about how qualities like empathy, honesty, and responsibility are just as important as technical skills in a successful career.
@@ -96,8 +96,7 @@
 
 ### Expert Lecture
 - **Mrs. Shaffy Makkar,** MSc Gold Medalist   
-  Delivered an impactful session on the topic **"Milets: Super Food"** aimed at the importance of millets, highlighting their nutritional benefits, environmental
-  sustainability, and role in promoting healthy diets.
+  Delivered an impactful session on the topic **"Milets: Super Food"**.
 
 ## Day 6: Health & Personal Development
 ### Date & Time
@@ -110,7 +109,7 @@
   Addressed students about college clubs, activities, and anti‑ragging awareness.
   
 - **Mr. Manpreet Singh,** Fitness Coach  
-  Delivered a lecture on the importance of health and fitness for engineers, highlighting practical tips to maintain an active lifestyle despite a busy schedule.
+  Delivered a lecture on the importance of health and fitness for engineers.
   
 - **Brigadier P.S. Cheema,** SM, VSM  
   Delivered an inspiring session that motivated students to develop discipline, leadership, and a strong sense of purpose in both academic and personal life.
